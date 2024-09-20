@@ -22,8 +22,8 @@
 - Frank and Stan - `c_jup_mp_oscar_23`
 
 
-## Daryl Dixon `darts`
-### Base name 
+## Daryl Dixon 
+### Base name `darts`
 - Daryl Dixon - `c_jup_mp_darts`
 
 - Commonwealth Operative - `c_jup_mp_darts_10`

@@ -4,7 +4,7 @@
 
 
 # Tips
-MWIII file names will be `head_c_jup_mp_` and `body_c_jup_mp_`
+MWIII file names will be `jup`
 
 # Cant Find This Model
  If you cant find a Model or i forgot to add one just let me know  

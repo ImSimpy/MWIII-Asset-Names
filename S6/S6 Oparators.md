@@ -32,6 +32,7 @@
 ## Dokkaebi
 ### Base name `maestro`
 - The Last Straw - `maestro_19`
+- 
 - The Last Straw Blackcell - `c_jup_mp_maestro_29`
 
 

@@ -1,35 +1,35 @@
-## Alone 
+# Alone 
 ### Base name `fuse`
 - Alone - `c_jup_mp_fuse`
 
 
-## Alejandro
+# Alejandro
 ### Base name `alejandro` 
 - Dios De Los Muertos - `c_jup_mp_alejandro_11`
 
 
-## Art The Clown
+# Art The Clown
 ### Base name `clay`
 - Art The Clown - `c_jup_mp_clay`
 
-## Banshee
+# Banshee
 ### Base name `kappa`
 - Blood Red Riding Hood  - `c_jup_mp_kappa_16`
 
 
-## Corso
+# Corso
 ### Base name `oscar`
 - Frank and Stan - `c_jup_mp_oscar_23`
 
 
-## Daryl Dixon 
+# Daryl Dixon 
 ### Base name `darts`
 - Daryl Dixon - `c_jup_mp_darts`
 
 - Commonwealth Operative - `c_jup_mp_darts_10`
 
 
-## Dokkaebi
+# Dokkaebi
 ### Base name `maestro`
 - The Last Straw - `maestro_19`
 - 

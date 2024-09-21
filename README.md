@@ -18,7 +18,7 @@ Great question just press the `S6` Folder and Press any `.md` file like S6 Weapo
  If CordeyCep or Greyhound doesnt load the names please come to the discord server for help
  CordeyCep/Greyhound Support:
  
- [!Discord](https://discord.gg/eY2Y5p2PEp)
+ [!DiscordLink](https://discord.gg/eY2Y5p2PEp)
 
 
 # Future Projects

@@ -1,3 +1,10 @@
+# MWIII Season 6 Oparators  
+> [!TIP]
+> For the Oparators there models are seperated by `head` and `body`
+>
+> `head_c_jup_mp_ghost_vault` or `head_c_jup_mp_ghost_vault`
+
+
 # Alone 
 ### Base name `fuse`
 - Alone - `c_jup_mp_fuse`

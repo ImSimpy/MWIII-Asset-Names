@@ -2,6 +2,7 @@
 > [!TIP]
 > For the Oparators there models are seperated by `head` and `body`
 >
+> 
 > `head_c_jup_mp_ghost_vault` or `body_c_jup_mp_ghost_vault`
 
 

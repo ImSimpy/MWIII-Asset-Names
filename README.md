@@ -4,7 +4,7 @@
 
 
 # Tips
-MWIII file names will be `jup`
+MWIII file names will always have a `jup` in there file name
 
 # Cant Find This Model
  If you cant find a Model or i forgot to add one just let me know  

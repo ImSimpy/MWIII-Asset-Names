@@ -1,3 +1,8 @@
+< [!TIP]
+< For the weapons there going be separate by parts like 
+< `vm_jup_jp37_dm_kappa98_bar_long_5509` or `vm_jup_jp37_dm_kappa98_grip_angshort_5509`
+
+
 # Kastov LSW
 ### Base name `rpapa20`
 - Silk Spinner - `jup_jp28_lm_rpapa20_v6032`

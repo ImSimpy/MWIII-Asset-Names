@@ -6,8 +6,9 @@
 >MWIII file names will always have a `jup` in there file name
 
 # Help
-## Where do i go to find the assets names?
-## Great question just press the `S6` Folder and Press any `.md` file like S6 Weapons or S6 Camos 
+Where do i go to find the assets names?
+
+Great question just press the `S6` Folder and Press any `.md` file like S6 Weapons or S6 Camos 
 
 # Cant Find This Model
  If you cant find a Model or i forgot to add one just let me know  

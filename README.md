@@ -22,7 +22,9 @@ Great question just press the `S6` Folder and Press any `.md` file like S6 Weapo
 # Future Projects
 Games that i be getting asset names from
   
-  - Black Ops 6 
+  - Black Ops 6
+  - 
+  - The First Descendant 
 
 
 # Characters

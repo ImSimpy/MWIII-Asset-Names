@@ -7,7 +7,6 @@
 
 # Help
 ## Where do i go to find the assets names?
-#
 ## Great question just press the `S6` Folder and Press any `.md` file like S6 Weapons or S6 Camos 
 
 # Cant Find This Model

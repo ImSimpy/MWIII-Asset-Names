@@ -1,3 +1,4 @@
+# MWIII Season 6 Weapons 
 < [!TIP]
 < For the weapons there going be separate by parts like 
 < `vm_jup_jp37_dm_kappa98_bar_long_5509` or `vm_jup_jp37_dm_kappa98_grip_angshort_5509`
